@@ -23,8 +23,8 @@ A dataset called "Shop Customer Data” provides a summarized analysis of the to
 
 **Result Summary**
 1. **Customer Demographics Insights:**
-  1. **Insight:** The largest customer group comprises artists (35%), with strong representation from healthcare professionals and entertainment professionals.
-  2. **Impact:** Targeting these dominant groups in marketing strategies has increased customer engagement by 20%.
+   1. **Insight:** The largest customer group comprises artists (35%), with strong representation from healthcare professionals and entertainment professionals.
+   2. **Impact:** Targeting these dominant groups in marketing strategies has increased customer engagement by 20%.
 
 2. **Spending Behavior and Profession Correlation:**
    1. **Insight:** Both the "Entertainment" and "Artist" categories exhibit the highest average spending scores.
